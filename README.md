@@ -1,3 +1,5 @@
+изменения в ветке fix
+
 # devops-netology
 line
 
@@ -22,4 +24,4 @@ override.tf.json
 
 .terraformrc
 terraform.rc
-игнорировать данные файлы
+игнорировать данные файлыnew line fix
